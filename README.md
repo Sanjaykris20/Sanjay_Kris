@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-```python
+python
 class SanjayKrishnan:
     def __init__(self):
         self.name = "Sanjay Krishnan K"
