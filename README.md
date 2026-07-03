@@ -1,5 +1,3 @@
-# Sanjay_Kris
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjay%20Krishnan%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Enthusiast%20%7C%20B.Tech%20IT%20Student&descAlignY=62&descSize=16" width="100%"/>
@@ -14,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-python
+```python
 class SanjayKrishnan:
     def __init__(self):
         self.name = "Sanjay Krishnan K"
